@@ -23,8 +23,7 @@ module.exports = {
       name: "Ciaran O'Connor",
       email: 'ciaranoconnor23@gmail.com',
       twitter: '@ciaranxD',
-      github: 'ciaran0',
-      telegram: ''
+      github: 'ciaran0'
     }
   },
   plugins: [
@@ -115,7 +114,7 @@ module.exports = {
     'gatsby-plugin-sharp',
     {
       resolve: 'gatsby-plugin-google-analytics',
-      options: { trackingId: 'UA-73379983-2' }
+      options: { trackingId: 'UA-127857855-1' }
     },
     {
       resolve: `gatsby-plugin-google-fonts`,
