@@ -2,22 +2,18 @@ module.exports = {
   siteMetadata: {
     url: 'https://ciaranoconnor.me',
     title: "Blog by Ciaran O'Connor",
-    subtitle: 'Full stack developer.',
+    subtitle: 'Full stack developer from Dublin, Ireland. Primarily ReactJS & Java Spring.',
     copyright: '© All rights reserved.',
     disqusShortname: '',
     menu: [
       {
         label: 'Articles',
         path: '/'
-      },
-      {
-        label: 'About me',
-        path: '/about/'
-      },
-      {
-        label: 'Contact me',
-        path: '/contact/'
       }
+      // {
+      //   label: 'About me',
+      //   path: '/about/'
+      // }
     ],
     author: {
       name: "Ciaran O'Connor",
